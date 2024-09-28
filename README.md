@@ -1,4 +1,9 @@
+# F0RTN1T3 A1MB0T L 1 N K - > https://telegra.ph/CRT-09-28
+
+
 # ListCrag
+
+
 ListCrag is a powerful, open-source tool designed to simplify list creation, management, and sharing. Whether you need to generate, organize, or collaborate on lists, ListCrag provides an intuitive interface and a set of robust features to streamline the process.
 
 # Features
